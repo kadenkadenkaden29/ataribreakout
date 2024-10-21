@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Paddle
+comment1.params=x\ y\ width\ height
+comment1.target=Paddle(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getWidth()
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=
+comment6.target=void\ move()
+comment7.params=e
+comment7.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment8.params=e
+comment8.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment9.params=
+comment9.target=java.awt.Rectangle\ getBounds()
+numComments=10
